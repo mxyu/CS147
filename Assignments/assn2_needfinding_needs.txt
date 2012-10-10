@@ -1,0 +1,26 @@
+1. Evan needs a way to organize his photos so that when he looks back for certain photos, they might be easier to find.
+2. Evan needs a less labor-intensive method to upload pictures to Facebook, as he does not have time to go through the process of selecting photos and tagging/commenting them (mostly selecting).
+3. Evan needs a way to manage the volume of his photos so that he does not get backed up with tons of photos from many different events. The fact that his photos lack management is a big speed bump when he considers uploading photos to Facebook.
+4. Evan needs a way to sort "types" of photos, for example, sorting photos with faces from those that are text-heavy.
+
+5. Stephanie needs either a wireless camera or a way to easily locate her camera's USB cord every time she wants to import photos; this would save her a lot of time during the process of importing photos and thus make the activation barrier for attempting to manage photos much lower. 
+6. Stephanie needs a quicker way to post photos to her blog so that she can keep up with her blog.
+7. On this note, perhaps Stephanie needs an application that allows her to both post and comment on her blog photos in one fell swoop so that she can eliminate all of the discrete steps she normally takes to upload photos to her blog and comment on them.
+8. Stephanie may not like but could probably use something that could pick "best photos" out of a batch of photos so that she would not have to worry about limiting the number of photos she would like to capture and upload in a given day.
+9. Stephanie needs a way to regularly put away photo folders or files that normally accumulate on and clutter her desktop without taking up too much of her time or concentration.
+10. Stephanie needs a way to send a batch of photos directly to her friends without having to use her computer.
+11. Stephanie needs a surefire way to delete only redundant photos from her devices, since photos often accumulate on her devices and take up memory even after they have been saved on her computer.
+
+12. Gary needs a simpler and more immediate (perhaps automatic) way to upload photos after a trip or epic adventure
+13. Gary needs a way to preview and filter photos for import so that he does not have to waste additional time deleting photos he originally did not wish import
+14. Gary needs a way to make photos perishable such that, for example, if he is only going to take the Caltrain for the summer, the Caltrain timetable screen shot will delete itself after the summer is over. Another application of this could help Stephanie: making photos that have already been uploaded perishable so that she does not get backed up with redundant photos she does not have time to manually delete.
+15. Gary needs a way to visualize multiple photos at once in a way that makes it easy to compare them so that he can decide which of his duplicate photos he would like to keep.
+16. OR Gary needs software that can decide for him what the best picture out of several duplicate scenes would be.
+17. Gary needs a way to turn off or automatically bypass the Dropbox notification for every time he plugs in his phone.
+18. Gary needs a way to wirelessly transfer photos to his computer in order to save the time he would normally spend on looking for a USB cord, or to allow him to still send photos in bulk when a USB cord is not available.
+
+1. Bump
+2. Dropbox
+3. Banking
+4. Apple's geo-tagging
+5. Batch/Instagram
