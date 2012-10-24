@@ -30,6 +30,7 @@
 			$name = $_POST["name"];
 			$book = $_POST["book"];
 			$email = $_POST["email"];
+			echo $email;
 			$t = time();
 			
 			// Insert into orders
